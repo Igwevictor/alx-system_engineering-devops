@@ -1,2 +1,2 @@
-#!/bash/bin
+#!/bin/bash
 cut -c 1 | paste -s -d ''
